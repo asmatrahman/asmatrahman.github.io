@@ -1,0 +1,536 @@
+1:"$Sreact.fragment"
+2:I[8332,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"GoogleAnalytics"]
+3:I[1458,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"ThemeProvider"]
+4:I[6767,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"TooltipProvider"]
+5:I[9766,[],""]
+6:I[8924,[],""]
+7:I[8026,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"Dock"]
+8:I[8026,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"DockIcon"]
+9:I[6767,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"Tooltip"]
+a:I[6767,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"TooltipTrigger"]
+b:I[2619,["65","static/chunks/65-927415f2ccfd2358.js","831","static/chunks/app/blog/page-ccded120e0a92bb8.js"],""]
+c:I[6767,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"TooltipContent"]
+1c:I[7150,[],""]
+:HL["/_next/static/css/070888dc5bd805a4.css","style"]
+0:{"P":null,"b":"UDQbBvsNnaNtlfif4ybid","p":"","c":["","blog","react-native-vs-flutter-2025"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","react-native-vs-flutter-2025","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/070888dc5bd805a4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased max-w-2xl mx-auto py-12 sm:py-24 px-6 __variable_f367f3","children":[["$","$L2",null,{"gaId":"G-Y81VC6LJXJ"}],["$","$L3",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":[["$","$L4",null,{"delayDuration":0,"children":[["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","div",null,{"className":"pointer-events-none fixed inset-x-0 bottom-0 z-30 mx-auto mb-4 flex origin-bottom h-full max-h-14","children":[["$","div",null,{"className":"fixed bottom-0 inset-x-0 h-16 w-full bg-background to-transparent backdrop-blur-lg [-webkit-mask-image:linear-gradient(to_top,black,transparent)] dark:bg-background"}],["$","$L7",null,{"className":"z-50 pointer-events-auto relative mx-auto flex min-h-full h-full items-center px-1 bg-background [box-shadow:0_0_0_1px_rgba(0,0,0,.03),0_2px_4px_rgba(0,0,0,.05),0_12px_24px_rgba(0,0,0,.05)] transform-gpu dark:[border:1px_solid_rgba(255,255,255,.1)] dark:[box-shadow:0_-20px_80px_-20px_#ffffff1f_inset] ","children":[[["$","$L8","/",{"children":["$","$L9",null,{"children":[["$","$La",null,{"asChild":true,"children":["$","$Lb",null,{"href":"/","title":"Asmat Rahman | Home","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground rounded-full size-12","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-home size-4 hover:text-primary ","children":[["$","path","y5dka4",{"d":"m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"}],["$","polyline","e2us08",{"points":"9 22 9 12 15 12 15 22"}],"$undefined"]}]}]}],["$","$Lc",null,{"children":["$","p",null,{"children":"Home"}]}]]}]}],["$","$L8","/blog",{"children":["$","$L9",null,{"children":[["$","$La",null,{"asChild":true,"children":["$","$Lb",null,{"href":"/blog","title":"Asmat Rahman | Blog","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground rounded-full size-12","children":"$Ld"}]}],"$Le"]}]}]],"$Lf",["$L10","$L11","$L12","$L13","$L14"],"$L15","$L16"]}]]}]]}],"$L17"]}]]}]}]]}],{"children":["blog","$L18",{"children":[["slug","react-native-vs-flutter-2025","d"],"$L19",{"children":["__PAGE__","$L1a",{},null,false]},null,false]},null,false]},null,false],"$L1b",false]],"m":"$undefined","G":["$1c",[]],"s":false,"S":true}
+1d:I[6259,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"Separator"]
+1f:I[625,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"default"]
+20:I[8720,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"Toaster"]
+22:I[4431,[],"OutletBoundary"]
+24:I[5278,[],"AsyncMetadataOutlet"]
+26:I[4431,[],"ViewportBoundary"]
+28:I[4431,[],"MetadataBoundary"]
+29:"$Sreact.suspense"
+d:["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-notebook size-4 hover:text-primary ","children":[["$","path","aawbzj",{"d":"M2 6h4"}],["$","path","l0bgd4",{"d":"M2 10h4"}],["$","path","1gsvsf",{"d":"M2 14h4"}],["$","path","1bu2t1",{"d":"M2 18h4"}],["$","rect","1nb95v",{"width":"16","height":"20","x":"4","y":"2","rx":"2"}],["$","path","rotuqe",{"d":"M16 2v20"}],"$undefined"]}]
+e:["$","$Lc",null,{"children":["$","p",null,{"children":"Blog"}]}]
+f:["$","$L1d",null,{"orientation":"vertical","className":"h-full"}]
+1e:T843,M409.132 114.573c-19.608-33.596-46.205-60.194-79.798-79.8-33.598-19.607-70.277-29.408-110.063-29.408-39.781 0-76.472 9.804-110.063 29.408-33.596 19.605-60.192 46.204-79.8 79.8C9.803 148.168 0 184.854 0 224.63c0 47.78 13.94 90.745 41.827 128.906 27.884 38.164 63.906 64.572 108.063 79.227 5.14.954 8.945.283 11.419-1.996 2.475-2.282 3.711-5.14 3.711-8.562 0-.571-.049-5.708-.144-15.417a2549.81 2549.81 0 01-.144-25.406l-6.567 1.136c-4.187.767-9.469 1.092-15.846 1-6.374-.089-12.991-.757-19.842-1.999-6.854-1.231-13.229-4.086-19.13-8.559-5.898-4.473-10.085-10.328-12.56-17.556l-2.855-6.57c-1.903-4.374-4.899-9.233-8.992-14.559-4.093-5.331-8.232-8.945-12.419-10.848l-1.999-1.431c-1.332-.951-2.568-2.098-3.711-3.429-1.142-1.331-1.997-2.663-2.568-3.997-.572-1.335-.098-2.43 1.427-3.289 1.525-.859 4.281-1.276 8.28-1.276l5.708.853c3.807.763 8.516 3.042 14.133 6.851 5.614 3.806 10.229 8.754 13.846 14.842 4.38 7.806 9.657 13.754 15.846 17.847 6.184 4.093 12.419 6.136 18.699 6.136 6.28 0 11.704-.476 16.274-1.423 4.565-.952 8.848-2.383 12.847-4.285 1.713-12.758 6.377-22.559 13.988-29.41-10.848-1.14-20.601-2.857-29.264-5.14-8.658-2.286-17.605-5.996-26.835-11.14-9.235-5.137-16.896-11.516-22.985-19.126-6.09-7.614-11.088-17.61-14.987-29.979-3.901-12.374-5.852-26.648-5.852-42.826 0-23.035 7.52-42.637 22.557-58.817-7.044-17.318-6.379-36.732 1.997-58.24 5.52-1.715 13.706-.428 24.554 3.853 10.85 4.283 18.794 7.952 23.84 10.994 5.046 3.041 9.089 5.618 12.135 7.708 17.705-4.947 35.976-7.421 54.818-7.421s37.117 2.474 54.823 7.421l10.849-6.849c7.419-4.57 16.18-8.758 26.262-12.565 10.088-3.805 17.802-4.853 23.134-3.138 8.562 21.509 9.325 40.922 2.279 58.24 15.036 16.18 22.559 35.787 22.559 58.817 0 16.178-1.958 30.497-5.853 42.966-3.9 12.471-8.941 22.457-15.125 29.979-6.191 7.521-13.901 13.85-23.131 18.986-9.232 5.14-18.182 8.85-26.84 11.136-8.662 2.286-18.415 4.004-29.263 5.146 9.894 8.562 14.842 22.077 14.842 40.539v60.237c0 3.422 1.19 6.279 3.572 8.562 2.379 2.279 6.136 2.95 11.276 1.995 44.163-14.653 80.185-41.062 108.068-79.226 27.88-38.161 41.825-81.126 41.825-128.906-.01-39.771-9.818-76.454-29.414-110.049z10:["$","$L8","GitHub",{"children":["$","$L9",null,{"children":[["$","$La",null,{"asChild":true,"children":["$","$Lb",null,{"href":"https://github.com/asmatrahman","target":"_blank","rel":"noopener noreferrer","title":"Asmat Rahman | GitHub","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground rounded-full size-12","children":["$","svg",null,{"viewBox":"0 0 438.549 438.549","className":"size-4 hover:text-primary","children":["$","path",null,{"fill":"currentColor","d":"$1e"}]}]}]}],["$","$Lc",null,{"children":["$","p",null,{"children":"GitHub"}]}]]}]}]
+11:["$","$L8","LinkedIn",{"children":["$","$L9",null,{"children":[["$","$La",null,{"asChild":true,"children":["$","$Lb",null,{"href":"https://www.linkedin.com/in/asmatrahman","target":"_blank","rel":"noopener noreferrer","title":"Asmat Rahman | LinkedIn","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground rounded-full size-12","children":["$","svg",null,{"viewBox":"0 0 24 24","xmlns":"http://www.w3.org/2000/svg","className":"size-4 hover:text-primary","children":[["$","title",null,{"children":"LinkedIn"}],["$","path",null,{"fill":"currentColor","d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]]}]}]}],["$","$Lc",null,{"children":["$","p",null,{"children":"LinkedIn"}]}]]}]}]
+12:["$","$L8","X",{"children":["$","$L9",null,{"children":[["$","$La",null,{"asChild":true,"children":["$","$Lb",null,{"href":"https://x.com/asmatrahman_","target":"_blank","rel":"noopener noreferrer","title":"Asmat Rahman | X","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground rounded-full size-12","children":["$","svg",null,{"viewBox":"0 0 24 24","xmlns":"http://www.w3.org/2000/svg","className":"size-4 hover:text-primary","children":[["$","title",null,{"children":"X"}],["$","path",null,{"fill":"currentColor","d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]]}]}]}],["$","$Lc",null,{"children":["$","p",null,{"children":"X"}]}]]}]}]
+13:["$","$L8","Instagram",{"children":["$","$L9",null,{"children":[["$","$La",null,{"asChild":true,"children":["$","$Lb",null,{"href":"https://www.instagram.com/asmatrahman_","target":"_blank","rel":"noopener noreferrer","title":"Asmat Rahman | Instagram","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground rounded-full size-12","children":["$","svg",null,{"width":"32px","height":"32px","viewBox":"0 0 32 32","fill":"currentColor","xmlns":"http://www.w3.org/2000/svg","className":"size-4 hover:text-primary","children":[["$","title",null,{"children":"instagram"}],["$","path",null,{"d":"M23 0H9C4 0 0 4 0 9v14c0 5 4 9 9 9h14c5 0 9-4 9-9V9c0-5-4-9-9-9m-7 10c3.3 0 6 2.7 6 6s-2.7 6-6 6-6-2.7-6-6 2.7-6 6-6m6-3c0-1.1.9-2 2-2s2 .9 2 2-.9 2-2 2-2-.9-2-2"}]]}]}]}],["$","$Lc",null,{"children":["$","p",null,{"children":"Instagram"}]}]]}]}]
+14:["$","$L8","Email",{"children":["$","$L9",null,{"children":[["$","$La",null,{"asChild":true,"children":["$","$Lb",null,{"href":"mailto:info.asmatrahman@gmail.com","target":"_blank","rel":"noopener noreferrer","title":"Asmat Rahman | Email","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground rounded-full size-12","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-mail size-4 hover:text-primary","children":[["$","rect","18n3k1",{"width":"20","height":"16","x":"2","y":"4","rx":"2"}],["$","path","1ocrg3",{"d":"m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"}],"$undefined"]}]}]}],["$","$Lc",null,{"children":["$","p",null,{"children":"Email"}]}]]}]}]
+15:["$","$L1d",null,{"orientation":"vertical","className":"h-full py-2"}]
+16:["$","$L8",null,{"children":["$","$L9",null,{"children":[["$","$La",null,{"asChild":true,"children":["$","$L1f",null,{}]}],["$","$Lc",null,{"children":["$","p",null,{"children":"Theme"}]}]]}]}]
+17:["$","$L20",null,{"position":"top-center"}]
+18:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+19:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+1a:["$","$1","c",{"children":["$L21",null,["$","$L22",null,{"children":["$L23",["$","$L24",null,{"promise":"$@25"}]]}]]}]
+1b:["$","$1","h",{"children":[null,[["$","$L26",null,{"children":"$L27"}],null],["$","$L28",null,{"children":["$","div",null,{"hidden":true,"children":["$","$29",null,{"fallback":null,"children":"$L2a"}]}]}]]}]
+2b:Tfd11,<p>Choosing between React Native and Flutter in 2025 depends on your team's expertise, project requirements, and long-term goals. Both frameworks have matured significantly, but they take different approaches to cross-platform development. Let's break down the key differences to help you make an informed decision.</p>
+<h2>Quick Comparison</h2>
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>React Native</th>
+<th>Flutter</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Language</strong></td>
+<td>JavaScript/TypeScript</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td><strong>UI Rendering</strong></td>
+<td>Native components</td>
+<td>Custom engine (Skia)</td>
+</tr>
+<tr>
+<td><strong>Performance</strong></td>
+<td>Near-native with New Architecture</td>
+<td>Consistently high with Impeller</td>
+</tr>
+<tr>
+<td><strong>Learning Curve</strong></td>
+<td>Easy for web developers</td>
+<td>Moderate (new language)</td>
+</tr>
+<tr>
+<td><strong>Hot Reload</strong></td>
+<td>Fast Refresh</td>
+<td>Hot Reload</td>
+</tr>
+<tr>
+<td><strong>Community</strong></td>
+<td>Larger (since 2015)</td>
+<td>Rapidly growing</td>
+</tr>
+<tr>
+<td><strong>Companies Using</strong></td>
+<td>Meta, Microsoft, Shopify, Discord</td>
+<td>Google, Alibaba, BMW, eBay</td>
+</tr>
+</tbody>
+</table>
+<h2>Architecture Differences</h2>
+<h3>React Native: Native Components</h3>
+<p>React Native uses a <strong>JavaScript bridge</strong> (or JSI in the New Architecture) to communicate with native platform components. Your JavaScript code controls actual iOS UIKit and Android Material components.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="min-light min-dark"><code data-language="jsx" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// React Native - Uses platform-native components</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> { View</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> Text</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> Button } </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">from</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'react-native'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> App</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">() {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> (</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    &#x3C;</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">View</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      &#x3C;</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">Text</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">>Hello World&#x3C;/</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">Text</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      &#x3C;</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">Button</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> title</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"Press Me"</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> /></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    &#x3C;/</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">View</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  );</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span></code></pre></figure>
+<p><strong>Benefits:</strong></p>
+<ul>
+<li>Native look and feel automatically</li>
+<li>Platform-specific behavior by default</li>
+<li>Smaller app size (leverages platform UI)</li>
+</ul>
+<p><strong>Trade-offs:</strong></p>
+<ul>
+<li>UI might differ slightly between platforms</li>
+<li>Performance overhead from JS bridge (improved with JSI)</li>
+</ul>
+<h3>Flutter: Custom Rendering Engine</h3>
+<p>Flutter renders everything itself using the <strong>Skia graphics engine</strong> (now Impeller on iOS). It doesn't use platform components—it draws pixels directly.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="dart" data-theme="min-light min-dark"><code data-language="dart" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Flutter - Custom-rendered widgets</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'package:flutter/material.dart'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">class</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> App</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> extends</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> StatelessWidget</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  @override</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">  Widget</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> build</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">BuildContext</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> context) {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">    return</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> MaterialApp</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      home</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> Scaffold</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">        body</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> Center</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">          child</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> Text</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">'Hello World'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">),</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">        ),</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      ),</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    );</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  }</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span></code></pre></figure>
+<p><strong>Benefits:</strong></p>
+<ul>
+<li>Pixel-perfect UI consistency across platforms</li>
+<li>Smooth 60/120 FPS animations</li>
+<li>Full control over rendering pipeline</li>
+</ul>
+<p><strong>Trade-offs:</strong></p>
+<ul>
+<li>Larger app size (bundles rendering engine)</li>
+<li>Need to implement platform-specific UX patterns manually</li>
+</ul>
+<h2>Performance in 2025</h2>
+<h3>React Native: New Architecture Performance</h3>
+<p>React Native 0.74+ introduced the <strong>New Architecture</strong> with:</p>
+<ul>
+<li><strong>JSI (JavaScript Interface)</strong> - Direct communication between JS and native</li>
+<li><strong>Fabric</strong> - New rendering system</li>
+<li><strong>TurboModules</strong> - Lazy-loaded native modules</li>
+<li><strong>Bridgeless Mode</strong> - Eliminates the old bridge entirely</li>
+</ul>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="min-light min-dark"><code data-language="jsx" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// React Native New Architecture - Direct native access</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> { NativeModules } </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">from</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'react-native'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// TurboModule with JSI</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">const</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> { </span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">CameraModule</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> } </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> NativeModules;</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">const</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> result</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> await</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> CameraModule</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">.takePicture</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">();</span></span></code></pre></figure>
+<p><strong>2025 Benchmarks:</strong></p>
+<ul>
+<li>First frame: ~50ms</li>
+<li>Smooth scrolling: 60 FPS on most devices</li>
+<li>Memory usage: Lower than before with bridgeless mode</li>
+</ul>
+<h3>Flutter: Impeller Rendering</h3>
+<p>Flutter 3.16+ uses <strong>Impeller</strong> (default on iOS, stable on Android) which:</p>
+<ul>
+<li>Precompiles shaders to eliminate jank</li>
+<li>Optimizes GPU usage</li>
+<li>Reduces frame drops during animations</li>
+</ul>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="dart" data-theme="min-light min-dark"><code data-language="dart" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Flutter - Smooth animations with Impeller</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">AnimatedContainer</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  duration</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> Duration</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(milliseconds</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8"> 300</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">),</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  curve</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> Curves</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">.easeInOut,</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  width</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> isExpanded </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">?</span><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8"> 200</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> :</span><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8"> 100</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">,</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  height</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> isExpanded </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">?</span><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8"> 200</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> :</span><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8"> 100</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">,</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">)</span></span></code></pre></figure>
+<p><strong>2025 Benchmarks:</strong></p>
+<ul>
+<li>First frame: ~45ms (fastest)</li>
+<li>Animations: Consistent 120 FPS on high-refresh devices</li>
+<li>Memory: Higher baseline due to bundled engine</li>
+</ul>
+<p><strong>Winner:</strong> Slight edge to Flutter for animation-heavy apps, but React Native's New Architecture closes the gap significantly.</p>
+<h2>Developer Experience</h2>
+<h3>React Native: JavaScript Ecosystem</h3>
+<p>If your team knows JavaScript/TypeScript and React, React Native feels natural.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="min-light min-dark"><code data-language="jsx" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Familiar React patterns</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> React</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> { useState</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> useEffect } </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">from</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'react'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> { View</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> Text</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> FlatList } </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">from</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'react-native'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ProductList</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">() {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> [</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">products</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> setProducts</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">] </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">([]);</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">  useEffect</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(() </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> {</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">    fetch</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">'https://api.example.com/products'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">)</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      .then</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(res </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=></span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> res</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">.json</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">())</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      .then</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(setProducts);</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  }</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> []);</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> (</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    &#x3C;</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">FlatList</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      data</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">{products}</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      renderItem</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">{({ item }) </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> &#x3C;</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">Text</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">>{</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">item</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">.name}&#x3C;/</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">Text</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">>}</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      keyExtractor</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">{item </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=></span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> item</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">.id}</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    /></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  );</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span></code></pre></figure>
+<p><strong>Advantages:</strong></p>
+<ul>
+<li>Reuse web libraries (axios, lodash, date-fns)</li>
+<li>Same patterns as React web</li>
+<li>TypeScript support built-in</li>
+<li>Expo for rapid development</li>
+</ul>
+<h3>Flutter: Dart and Built-in Tools</h3>
+<p>Flutter uses Dart, which is easy to learn but requires an investment if coming from JavaScript.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="dart" data-theme="min-light min-dark"><code data-language="dart" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Flutter widget patterns</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'package:flutter/material.dart'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'package:http/http.dart'</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> as</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> http;</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'dart:convert'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">class</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> ProductList</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> extends</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> StatefulWidget</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  @override</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">  _ProductListState</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> createState</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">() </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=></span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> _ProductListState</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">();</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">class</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> _ProductListState</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> extends</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> State</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">&#x3C;</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">ProductList</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">> {</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">  List</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> products </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> [];</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  @override</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  void</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> initState</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">() {</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    super.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">initState</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">();</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">    fetchProducts</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">();</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  }</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">  Future</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">&#x3C;</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">void</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">> </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">fetchProducts</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">() </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">async</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">    final</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> response </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> await</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> http.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">get</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">Uri</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">parse</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">'https://api.example.com/products'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">));</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">    setState</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(() {</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      products </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> json.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">decode</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(response.body);</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    });</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  }</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  @override</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">  Widget</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> build</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">BuildContext</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> context) {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">    return</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> ListView</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">builder</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      itemCount</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> products.length,</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      itemBuilder</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> (context, index) </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=></span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> Text</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(products[index][</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">'name'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">]),</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    );</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  }</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span></code></pre></figure>
+<p><strong>Advantages:</strong></p>
+<ul>
+<li>Comprehensive widget library</li>
+<li>Excellent DevTools (inspector, profiler)</li>
+<li>Strong typing out of the box</li>
+<li>Single codebase for mobile, web, desktop</li>
+</ul>
+<p><strong>Winner:</strong> React Native if you have JavaScript/React experience. Flutter if starting fresh or need multi-platform support.</p>
+<h2>Ecosystem and Libraries</h2>
+<h3>React Native Ecosystem (2025)</h3>
+<ul>
+<li><strong>State Management:</strong> Redux Toolkit, Zustand, Jotai, React Query</li>
+<li><strong>Navigation:</strong> React Navigation 7.x, Expo Router</li>
+<li><strong>UI Libraries:</strong> React Native Paper, NativeBase, Tamagui</li>
+<li><strong>Development:</strong> Expo SDK 51+, EAS Build, EAS Update</li>
+<li><strong>Testing:</strong> Jest, React Native Testing Library, Detox</li>
+</ul>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="min-light min-dark"><code data-language="jsx" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Example: Modern React Native stack</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> { useQuery } </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">from</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> '@tanstack/react-query'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> { create } </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">from</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'zustand'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Global state</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">const</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> useStore</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> create</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">((set) </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> ({</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  user</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">  setUser</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> (user) </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=></span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> set</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">({ user })</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}));</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Data fetching</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> UserProfile</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">({ userId }) {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> { </span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">data</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> isLoading</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> } </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useQuery</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">({</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    queryKey</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> [</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">'user'</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> userId]</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">    queryFn</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> () </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=></span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> fetchUser</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(userId)</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  });</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  if</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> (isLoading) </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">return</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> &#x3C;</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">Loading</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> />;</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> &#x3C;</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">UserCard</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> user</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">{data} />;</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span></code></pre></figure>
+<h3>Flutter Ecosystem (2025)</h3>
+<ul>
+<li><strong>State Management:</strong> Riverpod, BLoC, Provider, GetX</li>
+<li><strong>Navigation:</strong> GoRouter, Auto Route</li>
+<li><strong>UI Libraries:</strong> Material 3, Cupertino, Flutter Animate</li>
+<li><strong>Backend:</strong> Firebase (first-class), Supabase</li>
+<li><strong>Testing:</strong> flutter_test, integration_test, Patrol</li>
+</ul>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="dart" data-theme="min-light min-dark"><code data-language="dart" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Example: Modern Flutter stack</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'package:flutter_riverpod/flutter_riverpod.dart'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// State management with Riverpod</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">final</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> userProvider </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> FutureProvider</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">family</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">&#x3C;</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">User</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">, </span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">String</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">>((ref, userId) </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">async</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> await</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> fetchUser</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(userId);</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">});</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">class</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> UserProfile</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> extends</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> ConsumerWidget</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  final</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> String</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> userId;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  @override</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">  Widget</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> build</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">BuildContext</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> context, </span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">WidgetRef</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> ref) {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">    final</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> userAsync </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> ref.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">watch</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">userProvider</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(userId));</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    </span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">    return</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> userAsync.</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">when</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      data</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> (user) </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=></span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> UserCard</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(user</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> user),</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      loading</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> () </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=></span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> CircularProgressIndicator</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(),</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      error</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> (err, stack) </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=></span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> ErrorWidget</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(err),</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    );</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  }</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span></code></pre></figure>
+<p><strong>Winner:</strong> React Native has more third-party packages, but Flutter's built-in widget library reduces dependency needs.</p>
+<h2>Real-World Use Cases</h2>
+<h3>When to Choose React Native</h3>
+<p><strong>1. Web + Mobile Strategy</strong></p>
+<p>If you're building both web and mobile with shared logic:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="typescript" data-theme="min-light min-dark"><code data-language="typescript" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Shared business logic across web and mobile</span></span>
+<span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// packages/core/src/auth.ts</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> async</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> login</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(email</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> password</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">) {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> response</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> await</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> fetch</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">'/api/login'</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> {</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    method</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'POST'</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    body</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> JSON</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">.stringify</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">({ email</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> password })</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  });</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> response</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">.json</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">();</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Used in both Next.js web and React Native mobile</span></span></code></pre></figure>
+<p><strong>2. Rapid Prototyping with Expo</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="min-light min-dark"><code data-language="bash" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C"># Create and deploy in minutes</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npx</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> create-expo-app</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> my-app</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">cd</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> my-app</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npx</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> expo</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> start</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C"># Deploy to cloud</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">eas</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> build</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> --platform</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> ios</span></span></code></pre></figure>
+<p><strong>3. Leveraging JavaScript Libraries</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="min-light min-dark"><code data-language="jsx" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Reuse npm packages</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> moment </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">from</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'moment'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> _ </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">from</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'lodash'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> axios </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">from</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'axios'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Works seamlessly in React Native</span></span></code></pre></figure>
+<h3>When to Choose Flutter</h3>
+<p><strong>1. Complex Custom UI</strong></p>
+<p>Flutter excels at custom graphics and animations:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="dart" data-theme="min-light min-dark"><code data-language="dart" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Complex animations with Flutter</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'package:flutter/material.dart'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">class</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> CustomLoader</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> extends</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> StatelessWidget</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  @override</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">  Widget</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> build</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">BuildContext</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> context) {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">    return</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> CustomPaint</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      painter</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> LoaderPainter</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(),</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      child</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> Container</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">        width</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8"> 200</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">,</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">        height</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8"> 200</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">,</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      ),</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    );</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  }</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">class</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> LoaderPainter</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> extends</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> CustomPainter</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  @override</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  void</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> paint</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">Canvas</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> canvas, </span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">Size</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> size) {</span></span>
+<span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">    // Custom drawing logic with full GPU control</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  }</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span></code></pre></figure>
+<p><strong>2. Multi-Platform Deployment</strong></p>
+<p>Single codebase for mobile, web, desktop, and embedded:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="dart" data-theme="min-light min-dark"><code data-language="dart" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Same code runs on iOS, Android, Web, macOS, Windows, Linux</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">flutter build ios</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">flutter build android</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">flutter build web</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">flutter build macos</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">flutter build windows</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">flutter build linux</span></span></code></pre></figure>
+<p><strong>3. Consistent Design Systems</strong></p>
+<p>Perfect for brands requiring pixel-perfect UI across all platforms:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="dart" data-theme="min-light min-dark"><code data-language="dart" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Design system with exact specifications</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">ThemeData</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  primaryColor</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> Color</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8">0xFF00A896</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">),</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  fontFamily</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'CustomFont'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">,</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  textTheme</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> TextTheme</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    headlineLarge</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> TextStyle</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(fontSize</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8"> 24</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">, fontWeight</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> FontWeight</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">.bold),</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  ),</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">)</span></span></code></pre></figure>
+<h2>Performance Comparison: Real Numbers</h2>
+<h3>Startup Time (Cold Start)</h3>
+<table>
+<thead>
+<tr>
+<th>Framework</th>
+<th>iOS</th>
+<th>Android</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>React Native (0.74)</td>
+<td>1.2s</td>
+<td>1.5s</td>
+</tr>
+<tr>
+<td>Flutter (3.24)</td>
+<td>0.9s</td>
+<td>1.1s</td>
+</tr>
+<tr>
+<td>Native</td>
+<td>0.5s</td>
+<td>0.7s</td>
+</tr>
+</tbody>
+</table>
+<h3>App Size (Production Build)</h3>
+<table>
+<thead>
+<tr>
+<th>Framework</th>
+<th>iOS (IPA)</th>
+<th>Android (APK)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>React Native</td>
+<td>~15 MB</td>
+<td>~25 MB</td>
+</tr>
+<tr>
+<td>Flutter</td>
+<td>~20 MB</td>
+<td>~30 MB</td>
+</tr>
+<tr>
+<td>Native</td>
+<td>~8 MB</td>
+<td>~12 MB</td>
+</tr>
+</tbody>
+</table>
+<h3>Memory Usage (Idle)</h3>
+<table>
+<thead>
+<tr>
+<th>Framework</th>
+<th>Memory</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>React Native</td>
+<td>~60 MB</td>
+</tr>
+<tr>
+<td>Flutter</td>
+<td>~80 MB</td>
+</tr>
+<tr>
+<td>Native</td>
+<td>~40 MB</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Source:</strong> Independent benchmarks from 2025 community reports.</p>
+<h2>Team and Hiring Considerations</h2>
+<h3>React Native Hiring</h3>
+<ul>
+<li><strong>Larger talent pool</strong> - Most web developers know JavaScript/React</li>
+<li><strong>Faster onboarding</strong> - Leverage existing React knowledge</li>
+<li><strong>Salary range:</strong> $80k - $150k (USD, 2025)</li>
+</ul>
+<h3>Flutter Hiring</h3>
+<ul>
+<li><strong>Smaller but growing</strong> - Requires Dart knowledge (easier transition from Java/Kotlin)</li>
+<li><strong>Higher specialization</strong> - Dedicated Flutter developers</li>
+<li><strong>Salary range:</strong> $85k - $160k (USD, 2025)</li>
+</ul>
+<p><strong>Winner:</strong> React Native for easier hiring, Flutter for specialized UI roles.</p>
+<h2>Migration and Maintenance</h2>
+<h3>React Native Updates</h3>
+<p>React Native releases major versions ~every 6 months. Upgrading can be challenging:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="min-light min-dark"><code data-language="bash" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C"># Upgrade helper tool</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npx</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> react-native</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> upgrade</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npx</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> react-native-community/upgrade-helper</span></span></code></pre></figure>
+<p><strong>Community support:</strong> Large ecosystem means more breaking changes but also more solutions.</p>
+<h3>Flutter Updates</h3>
+<p>Flutter has stable releases quarterly with better backward compatibility:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="min-light min-dark"><code data-language="bash" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C"># Simple upgrade process</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">flutter</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> upgrade</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">flutter</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> pub</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> upgrade</span></span></code></pre></figure>
+<p><strong>Official support:</strong> Google maintains core packages, reducing breaking changes.</p>
+<h2>My Recommendation (2025)</h2>
+<h3>Choose React Native if:</h3>
+<ul>
+<li>✅ Your team knows JavaScript/TypeScript and React</li>
+<li>✅ You want to share code with React web projects</li>
+<li>✅ You need platform-native look and feel</li>
+<li>✅ You're building a typical business app (CRUD, forms, lists)</li>
+<li>✅ You want the largest ecosystem of third-party packages</li>
+</ul>
+<h3>Choose Flutter if:</h3>
+<ul>
+<li>✅ You need pixel-perfect UI consistency across platforms</li>
+<li>✅ You're targeting mobile, web, and desktop from one codebase</li>
+<li>✅ You're building animation-heavy or custom UI apps</li>
+<li>✅ You want strong typing and comprehensive tooling out of the box</li>
+<li>✅ You're building a new project without existing web infrastructure</li>
+</ul>
+<h2>Conclusion</h2>
+<p>Both React Native and Flutter are mature, production-ready frameworks in 2025. React Native's New Architecture has closed the performance gap, while Flutter continues to excel at custom UI and multi-platform deployment.</p>
+<p>Your choice should be based on:</p>
+<ol>
+<li><strong>Team expertise</strong> - Use what your team knows</li>
+<li><strong>Project requirements</strong> - Custom UI? Choose Flutter. Web integration? Choose React Native.</li>
+<li><strong>Long-term strategy</strong> - Consider hiring, maintenance, and ecosystem longevity</li>
+</ol>
+<p>In my experience building mobile apps with both frameworks, React Native wins for rapid development and web integration, while Flutter shines for custom UI and consistent cross-platform experiences.</p>
+<p><strong>The truth is:</strong> Both are excellent choices. Pick the one that aligns with your team's strengths and project needs, and you'll build great apps either way.</p>
+<hr>
+<p><strong>Additional Resources:</strong></p>
+<ul>
+<li><a href="https://reactnative.dev/">React Native Documentation</a></li>
+<li><a href="https://flutter.dev/">Flutter Documentation</a></li>
+<li><a href="https://reactnative.dev/docs/the-new-architecture/landing-page">React Native New Architecture Guide</a></li>
+<li><a href="https://docs.flutter.dev/perf/best-practices">Flutter Performance Best Practices</a></li>
+</ul>21:["$","section",null,{"id":"blog","children":[["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"React Native vs Flutter in 2025: Which Should You Choose?\",\"datePublished\":\"2025-10-25\",\"dateModified\":\"2025-10-25\",\"description\":\"An in-depth comparison of React Native and Flutter based on 2025 benchmarks, covering performance, development experience, ecosystem, and real-world use cases to help you choose the right framework.\",\"image\":\"https://asmatrahman.github.io//og?title=React Native vs Flutter in 2025: Which Should You Choose?\",\"url\":\"https://asmatrahman.github.io//blog/react-native-vs-flutter-2025\",\"author\":{\"@type\":\"Person\",\"name\":\"Asmat Rahman\"}}"}}],["$","h1",null,{"className":"title font-medium text-2xl tracking-tighter max-w-[650px]","children":"React Native vs Flutter in 2025: Which Should You Choose?"}],["$","div",null,{"className":"flex justify-between items-center mt-2 mb-8 text-sm max-w-[650px]","children":["$","$29",null,{"fallback":["$","p",null,{"className":"h-5"}],"children":["$","p",null,{"className":"text-sm text-neutral-600 dark:text-neutral-400","children":"Today"}]}]}],["$","article",null,{"className":"prose dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$2b"}}]]}]
+27:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+23:null
+2c:I[622,[],"IconMark"]
+25:{"metadata":[["$","title","0",{"children":"React Native vs Flutter in 2025: Which Should You Choose? | Asmat Rahman"}],["$","meta","1",{"name":"description","content":"An in-depth comparison of React Native and Flutter based on 2025 benchmarks, covering performance, development experience, ecosystem, and real-world use cases to help you choose the right framework."}],["$","link","2",{"rel":"author","href":"https://asmatrahman.github.io/"}],["$","meta","3",{"name":"author","content":"Asmat Rahman"}],["$","meta","4",{"name":"keywords","content":"Full Stack Developer,MERN Stack Developer,React Native Developer,Next.js Developer,Mobile App Developer,Web Developer Malda,Freelance Developer India,JavaScript Developer,Node.js Expert,MongoDB Developer,E-commerce Developer,Asmat Rahman"}],["$","meta","5",{"name":"creator","content":"Asmat Rahman"}],["$","meta","6",{"name":"publisher","content":"Asmat Rahman"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","9",{"rel":"canonical","href":"https://asmatrahman.github.io"}],["$","meta","10",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","11",{"property":"og:title","content":"React Native vs Flutter in 2025: Which Should You Choose?"}],["$","meta","12",{"property":"og:description","content":"An in-depth comparison of React Native and Flutter based on 2025 benchmarks, covering performance, development experience, ecosystem, and real-world use cases to help you choose the right framework."}],["$","meta","13",{"property":"og:url","content":"https://asmatrahman.github.io//blog/react-native-vs-flutter-2025"}],["$","meta","14",{"property":"og:image","content":"https://asmatrahman.github.io//og?title=React%20Native%20vs%20Flutter%20in%202025:%20Which%20Should%20You%20Choose?"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2025-10-25"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"React Native vs Flutter in 2025: Which Should You Choose?"}],["$","meta","19",{"name":"twitter:description","content":"An in-depth comparison of React Native and Flutter based on 2025 benchmarks, covering performance, development experience, ecosystem, and real-world use cases to help you choose the right framework."}],["$","meta","20",{"name":"twitter:image","content":"https://asmatrahman.github.io//og?title=React%20Native%20vs%20Flutter%20in%202025:%20Which%20Should%20You%20Choose?"}],["$","link","21",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L2c","22",{}]],"error":null,"digest":"$undefined"}
+2a:"$25:metadata"

@@ -1,0 +1,455 @@
+1:"$Sreact.fragment"
+2:I[8332,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"GoogleAnalytics"]
+3:I[1458,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"ThemeProvider"]
+4:I[6767,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"TooltipProvider"]
+5:I[9766,[],""]
+6:I[8924,[],""]
+7:I[8026,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"Dock"]
+8:I[8026,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"DockIcon"]
+9:I[6767,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"Tooltip"]
+a:I[6767,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"TooltipTrigger"]
+b:I[2619,["65","static/chunks/65-927415f2ccfd2358.js","831","static/chunks/app/blog/page-ccded120e0a92bb8.js"],""]
+c:I[6767,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"TooltipContent"]
+1c:I[7150,[],""]
+:HL["/_next/static/css/070888dc5bd805a4.css","style"]
+0:{"P":null,"b":"UDQbBvsNnaNtlfif4ybid","p":"","c":["","blog","openai-chatgpt-atlas-browser"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","openai-chatgpt-atlas-browser","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/070888dc5bd805a4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"min-h-screen bg-background font-sans antialiased max-w-2xl mx-auto py-12 sm:py-24 px-6 __variable_f367f3","children":[["$","$L2",null,{"gaId":"G-Y81VC6LJXJ"}],["$","$L3",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":[["$","$L4",null,{"delayDuration":0,"children":[["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","div",null,{"className":"pointer-events-none fixed inset-x-0 bottom-0 z-30 mx-auto mb-4 flex origin-bottom h-full max-h-14","children":[["$","div",null,{"className":"fixed bottom-0 inset-x-0 h-16 w-full bg-background to-transparent backdrop-blur-lg [-webkit-mask-image:linear-gradient(to_top,black,transparent)] dark:bg-background"}],["$","$L7",null,{"className":"z-50 pointer-events-auto relative mx-auto flex min-h-full h-full items-center px-1 bg-background [box-shadow:0_0_0_1px_rgba(0,0,0,.03),0_2px_4px_rgba(0,0,0,.05),0_12px_24px_rgba(0,0,0,.05)] transform-gpu dark:[border:1px_solid_rgba(255,255,255,.1)] dark:[box-shadow:0_-20px_80px_-20px_#ffffff1f_inset] ","children":[[["$","$L8","/",{"children":["$","$L9",null,{"children":[["$","$La",null,{"asChild":true,"children":["$","$Lb",null,{"href":"/","title":"Asmat Rahman | Home","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground rounded-full size-12","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-home size-4 hover:text-primary ","children":[["$","path","y5dka4",{"d":"m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"}],["$","polyline","e2us08",{"points":"9 22 9 12 15 12 15 22"}],"$undefined"]}]}]}],["$","$Lc",null,{"children":["$","p",null,{"children":"Home"}]}]]}]}],["$","$L8","/blog",{"children":["$","$L9",null,{"children":[["$","$La",null,{"asChild":true,"children":["$","$Lb",null,{"href":"/blog","title":"Asmat Rahman | Blog","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground rounded-full size-12","children":"$Ld"}]}],"$Le"]}]}]],"$Lf",["$L10","$L11","$L12","$L13","$L14"],"$L15","$L16"]}]]}]]}],"$L17"]}]]}]}]]}],{"children":["blog","$L18",{"children":[["slug","openai-chatgpt-atlas-browser","d"],"$L19",{"children":["__PAGE__","$L1a",{},null,false]},null,false]},null,false]},null,false],"$L1b",false]],"m":"$undefined","G":["$1c",[]],"s":false,"S":true}
+1d:I[6259,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"Separator"]
+1f:I[625,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"default"]
+20:I[8720,["105","static/chunks/0e5ce63c-67813f5901be547d.js","65","static/chunks/65-927415f2ccfd2358.js","1","static/chunks/1-ef1a0831affa38f9.js","567","static/chunks/567-c6ddda8731d95a8a.js","177","static/chunks/app/layout-53683d0a399214b6.js"],"Toaster"]
+22:I[4431,[],"OutletBoundary"]
+24:I[5278,[],"AsyncMetadataOutlet"]
+26:I[4431,[],"ViewportBoundary"]
+28:I[4431,[],"MetadataBoundary"]
+29:"$Sreact.suspense"
+d:["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-notebook size-4 hover:text-primary ","children":[["$","path","aawbzj",{"d":"M2 6h4"}],["$","path","l0bgd4",{"d":"M2 10h4"}],["$","path","1gsvsf",{"d":"M2 14h4"}],["$","path","1bu2t1",{"d":"M2 18h4"}],["$","rect","1nb95v",{"width":"16","height":"20","x":"4","y":"2","rx":"2"}],["$","path","rotuqe",{"d":"M16 2v20"}],"$undefined"]}]
+e:["$","$Lc",null,{"children":["$","p",null,{"children":"Blog"}]}]
+f:["$","$L1d",null,{"orientation":"vertical","className":"h-full"}]
+1e:T843,M409.132 114.573c-19.608-33.596-46.205-60.194-79.798-79.8-33.598-19.607-70.277-29.408-110.063-29.408-39.781 0-76.472 9.804-110.063 29.408-33.596 19.605-60.192 46.204-79.8 79.8C9.803 148.168 0 184.854 0 224.63c0 47.78 13.94 90.745 41.827 128.906 27.884 38.164 63.906 64.572 108.063 79.227 5.14.954 8.945.283 11.419-1.996 2.475-2.282 3.711-5.14 3.711-8.562 0-.571-.049-5.708-.144-15.417a2549.81 2549.81 0 01-.144-25.406l-6.567 1.136c-4.187.767-9.469 1.092-15.846 1-6.374-.089-12.991-.757-19.842-1.999-6.854-1.231-13.229-4.086-19.13-8.559-5.898-4.473-10.085-10.328-12.56-17.556l-2.855-6.57c-1.903-4.374-4.899-9.233-8.992-14.559-4.093-5.331-8.232-8.945-12.419-10.848l-1.999-1.431c-1.332-.951-2.568-2.098-3.711-3.429-1.142-1.331-1.997-2.663-2.568-3.997-.572-1.335-.098-2.43 1.427-3.289 1.525-.859 4.281-1.276 8.28-1.276l5.708.853c3.807.763 8.516 3.042 14.133 6.851 5.614 3.806 10.229 8.754 13.846 14.842 4.38 7.806 9.657 13.754 15.846 17.847 6.184 4.093 12.419 6.136 18.699 6.136 6.28 0 11.704-.476 16.274-1.423 4.565-.952 8.848-2.383 12.847-4.285 1.713-12.758 6.377-22.559 13.988-29.41-10.848-1.14-20.601-2.857-29.264-5.14-8.658-2.286-17.605-5.996-26.835-11.14-9.235-5.137-16.896-11.516-22.985-19.126-6.09-7.614-11.088-17.61-14.987-29.979-3.901-12.374-5.852-26.648-5.852-42.826 0-23.035 7.52-42.637 22.557-58.817-7.044-17.318-6.379-36.732 1.997-58.24 5.52-1.715 13.706-.428 24.554 3.853 10.85 4.283 18.794 7.952 23.84 10.994 5.046 3.041 9.089 5.618 12.135 7.708 17.705-4.947 35.976-7.421 54.818-7.421s37.117 2.474 54.823 7.421l10.849-6.849c7.419-4.57 16.18-8.758 26.262-12.565 10.088-3.805 17.802-4.853 23.134-3.138 8.562 21.509 9.325 40.922 2.279 58.24 15.036 16.18 22.559 35.787 22.559 58.817 0 16.178-1.958 30.497-5.853 42.966-3.9 12.471-8.941 22.457-15.125 29.979-6.191 7.521-13.901 13.85-23.131 18.986-9.232 5.14-18.182 8.85-26.84 11.136-8.662 2.286-18.415 4.004-29.263 5.146 9.894 8.562 14.842 22.077 14.842 40.539v60.237c0 3.422 1.19 6.279 3.572 8.562 2.379 2.279 6.136 2.95 11.276 1.995 44.163-14.653 80.185-41.062 108.068-79.226 27.88-38.161 41.825-81.126 41.825-128.906-.01-39.771-9.818-76.454-29.414-110.049z10:["$","$L8","GitHub",{"children":["$","$L9",null,{"children":[["$","$La",null,{"asChild":true,"children":["$","$Lb",null,{"href":"https://github.com/asmatrahman","target":"_blank","rel":"noopener noreferrer","title":"Asmat Rahman | GitHub","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground rounded-full size-12","children":["$","svg",null,{"viewBox":"0 0 438.549 438.549","className":"size-4 hover:text-primary","children":["$","path",null,{"fill":"currentColor","d":"$1e"}]}]}]}],["$","$Lc",null,{"children":["$","p",null,{"children":"GitHub"}]}]]}]}]
+11:["$","$L8","LinkedIn",{"children":["$","$L9",null,{"children":[["$","$La",null,{"asChild":true,"children":["$","$Lb",null,{"href":"https://www.linkedin.com/in/asmatrahman","target":"_blank","rel":"noopener noreferrer","title":"Asmat Rahman | LinkedIn","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground rounded-full size-12","children":["$","svg",null,{"viewBox":"0 0 24 24","xmlns":"http://www.w3.org/2000/svg","className":"size-4 hover:text-primary","children":[["$","title",null,{"children":"LinkedIn"}],["$","path",null,{"fill":"currentColor","d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]]}]}]}],["$","$Lc",null,{"children":["$","p",null,{"children":"LinkedIn"}]}]]}]}]
+12:["$","$L8","X",{"children":["$","$L9",null,{"children":[["$","$La",null,{"asChild":true,"children":["$","$Lb",null,{"href":"https://x.com/asmatrahman_","target":"_blank","rel":"noopener noreferrer","title":"Asmat Rahman | X","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground rounded-full size-12","children":["$","svg",null,{"viewBox":"0 0 24 24","xmlns":"http://www.w3.org/2000/svg","className":"size-4 hover:text-primary","children":[["$","title",null,{"children":"X"}],["$","path",null,{"fill":"currentColor","d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]]}]}]}],["$","$Lc",null,{"children":["$","p",null,{"children":"X"}]}]]}]}]
+13:["$","$L8","Instagram",{"children":["$","$L9",null,{"children":[["$","$La",null,{"asChild":true,"children":["$","$Lb",null,{"href":"https://www.instagram.com/asmatrahman_","target":"_blank","rel":"noopener noreferrer","title":"Asmat Rahman | Instagram","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground rounded-full size-12","children":["$","svg",null,{"width":"32px","height":"32px","viewBox":"0 0 32 32","fill":"currentColor","xmlns":"http://www.w3.org/2000/svg","className":"size-4 hover:text-primary","children":[["$","title",null,{"children":"instagram"}],["$","path",null,{"d":"M23 0H9C4 0 0 4 0 9v14c0 5 4 9 9 9h14c5 0 9-4 9-9V9c0-5-4-9-9-9m-7 10c3.3 0 6 2.7 6 6s-2.7 6-6 6-6-2.7-6-6 2.7-6 6-6m6-3c0-1.1.9-2 2-2s2 .9 2 2-.9 2-2 2-2-.9-2-2"}]]}]}]}],["$","$Lc",null,{"children":["$","p",null,{"children":"Instagram"}]}]]}]}]
+14:["$","$L8","Email",{"children":["$","$L9",null,{"children":[["$","$La",null,{"asChild":true,"children":["$","$Lb",null,{"href":"mailto:info.asmatrahman@gmail.com","target":"_blank","rel":"noopener noreferrer","title":"Asmat Rahman | Email","className":"inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground rounded-full size-12","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-mail size-4 hover:text-primary","children":[["$","rect","18n3k1",{"width":"20","height":"16","x":"2","y":"4","rx":"2"}],["$","path","1ocrg3",{"d":"m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"}],"$undefined"]}]}]}],["$","$Lc",null,{"children":["$","p",null,{"children":"Email"}]}]]}]}]
+15:["$","$L1d",null,{"orientation":"vertical","className":"h-full py-2"}]
+16:["$","$L8",null,{"children":["$","$L9",null,{"children":[["$","$La",null,{"asChild":true,"children":["$","$L1f",null,{}]}],["$","$Lc",null,{"children":["$","p",null,{"children":"Theme"}]}]]}]}]
+17:["$","$L20",null,{"position":"top-center"}]
+18:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+19:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+1a:["$","$1","c",{"children":["$L21",null,["$","$L22",null,{"children":["$L23",["$","$L24",null,{"promise":"$@25"}]]}]]}]
+1b:["$","$1","h",{"children":[null,[["$","$L26",null,{"children":"$L27"}],null],["$","$L28",null,{"children":["$","div",null,{"hidden":true,"children":["$","$29",null,{"fallback":null,"children":"$L2a"}]}]}]]}]
+2b:T6114,<p>On October 21, 2025, OpenAI unveiled <strong>ChatGPT Atlas</strong>—the first mainstream web browser built entirely around an AI assistant. This isn't just another browser with AI features bolted on; it's a fundamental rethinking of how we interact with the internet, with ChatGPT integrated into every page you visit.</p>
+<p>Atlas represents OpenAI's boldest move yet to challenge Google Chrome's 71.9% browser market share and position itself as the primary gateway to information online. With over 800 million weekly ChatGPT users, this launch could reshape the entire browser landscape.</p>
+<h2>What Makes Atlas Different?</h2>
+<p>Unlike traditional browsers where you navigate, search, and copy-paste into separate AI tools, Atlas makes ChatGPT the <strong>core interface</strong> for web browsing. Every webpage opens with an intelligent assistant ready to help.</p>
+<h3>Key Innovation: The Split-View Sidebar</h3>
+<p>The persistent ChatGPT sidebar stays beside any webpage, allowing you to:</p>
+<ul>
+<li>Ask questions about the current page</li>
+<li>Summarize long articles instantly</li>
+<li>Compare information across tabs</li>
+<li>Get explanations without leaving the page</li>
+<li>Take actions based on page content</li>
+</ul>
+<h2>Revolutionary Features</h2>
+<h3>1. Context-Aware Page Understanding</h3>
+<p>Atlas automatically understands what you're reading and can answer questions without manual copy-pasting.</p>
+<p><strong>Example workflow:</strong></p>
+<pre><code>You: "What are the main arguments in this article?"
+Atlas: [Analyzes the page and provides bullet points]
+
+You: "How does this compare to yesterday's article I read?"
+Atlas: [Recalls from browser memory and compares]
+</code></pre>
+<h3>2. One-Click Summarization</h3>
+<p>Every page can be instantly summarized with follow-up questions:</p>
+<ul>
+<li><strong>Dense research papers</strong> → Key findings in seconds</li>
+<li><strong>Product pages</strong> → Pros, cons, and comparisons</li>
+<li><strong>Long-form content</strong> → TL;DR with context</li>
+</ul>
+<h3>3. Agent Mode (Paid Feature)</h3>
+<p>This is where Atlas gets truly powerful. Agent Mode can <strong>autonomously browse and complete tasks</strong> for you under your supervision.</p>
+<p><strong>Real-world examples:</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="javascript" data-theme="min-light min-dark"><code data-language="javascript" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Shopping automation</span></span>
+<span data-line=""><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"Find the best price for a 65-inch OLED TV under $1500,</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">add it to cart</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> and apply any available coupons</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">// Travel planning</span></span>
+<span data-line=""><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"Plan a 3-day trip to Tokyo, find hotels near Shibuya,</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">book restaurants</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> and create an itinerary</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">// Research tasks</span></span>
+<span data-line=""><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"Find 10 peer-reviewed articles on climate change</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">from the last </span><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8">2</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> years and summarize their findings</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"</span></span></code></pre></figure>
+<p>Agent Mode navigates websites, fills forms, clicks buttons, and completes multi-step tasks while you supervise.</p>
+<h3>4. Browser Memories</h3>
+<p>Atlas remembers your browsing context across sessions:</p>
+<ul>
+<li>Previous searches and findings</li>
+<li>Websites you've visited</li>
+<li>Information you've researched</li>
+<li>Conversations you've had</li>
+</ul>
+<p><strong>Example:</strong></p>
+<pre><code>You: "Where was that article about Next.js I read last week?"
+Atlas: "You read 'Next.js 15 Features' on TechCrunch on October 18.
+Here's the link: [provides URL]"
+</code></pre>
+<h3>5. Inline Writing Help</h3>
+<p>Get AI assistance directly in text fields without switching tabs:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="html" data-theme="min-light min-dark"><code data-language="html" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">&#x3C;!-- Writing an email in Gmail --></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">textarea</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  Dear Customer Support,</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  [Atlas can: polish, rewrite, change tone, expand]</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">textarea</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">></span></span></code></pre></figure>
+<p><strong>Use cases:</strong></p>
+<ul>
+<li>Polish customer emails</li>
+<li>Rephrase support tickets</li>
+<li>Improve job applications</li>
+<li>Draft professional messages</li>
+</ul>
+<h3>6. Smarter Search Experience</h3>
+<p>The new tab page is built for questions, not just URLs.</p>
+<p><strong>Traditional browser:</strong></p>
+<ol>
+<li>Type query</li>
+<li>Click through results</li>
+<li>Open multiple tabs</li>
+<li>Compare manually</li>
+</ol>
+<p><strong>Atlas:</strong></p>
+<ol>
+<li>Ask a question</li>
+<li>Get synthesized answer</li>
+<li>See tabs: Links, Images, Videos, News</li>
+<li>Refine with follow-ups</li>
+</ol>
+<h3>7. Multi-Modal Understanding</h3>
+<p>Atlas can analyze:</p>
+<ul>
+<li>Text content</li>
+<li>Images on the page</li>
+<li>Videos and transcripts</li>
+<li>Tables and data</li>
+<li>Code snippets</li>
+</ul>
+<h2>How It Compares to Chrome</h2>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Chrome</th>
+<th>Atlas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AI Integration</td>
+<td>Extensions only</td>
+<td>Native, core feature</td>
+</tr>
+<tr>
+<td>Page Understanding</td>
+<td>None</td>
+<td>Automatic</td>
+</tr>
+<tr>
+<td>Context Awareness</td>
+<td>None</td>
+<td>Full browsing history</td>
+</tr>
+<tr>
+<td>Task Automation</td>
+<td>Manual</td>
+<td>Agent Mode</td>
+</tr>
+<tr>
+<td>Writing Help</td>
+<td>Third-party tools</td>
+<td>Built-in</td>
+</tr>
+<tr>
+<td>Search Experience</td>
+<td>Links only</td>
+<td>Conversational</td>
+</tr>
+<tr>
+<td>Privacy Controls</td>
+<td>Basic</td>
+<td>Detailed opt-in/out</td>
+</tr>
+</tbody>
+</table>
+<h2>Real-World Use Cases</h2>
+<h3>For Developers</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="javascript" data-theme="min-light min-dark"><code data-language="javascript" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Reading technical documentation</span></span>
+<span data-line=""><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"Explain this API endpoint in simple terms"</span></span>
+<span data-line=""><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"Show me example code for this function"</span></span>
+<span data-line=""><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"Compare this approach vs. the previous page's method"</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Debugging</span></span>
+<span data-line=""><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"What could cause this error message on Stack Overflow?"</span></span>
+<span data-line=""><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"Find similar issues and their solutions"</span></span></code></pre></figure>
+<h3>For Researchers</h3>
+<pre><code>"Summarize the methodology section"
+"Extract all statistics and create a comparison table"
+"Find related papers published this year"
+"What's the sample size and confidence interval?"
+</code></pre>
+<h3>For Shoppers</h3>
+<pre><code>"Compare prices across these three sites"
+"Show me only 4-star+ reviews mentioning durability"
+"Find the best deal and apply coupon codes"
+"Add to cart and notify me of price drops"
+</code></pre>
+<h3>For Content Creators</h3>
+<pre><code>"Analyze competitor's article structure"
+"Extract key SEO keywords"
+"Suggest improvements for readability"
+"Generate social media posts from this content"
+</code></pre>
+<h2>Privacy Concerns</h2>
+<p><strong>The big question:</strong> What does OpenAI see?</p>
+<h3>What's Collected (If You Opt In):</h3>
+<ul>
+<li>Pages you visit</li>
+<li>Sidebar conversations</li>
+<li>Agent Mode actions</li>
+<li>Browser memories</li>
+</ul>
+<h3>Default Settings:</h3>
+<ul>
+<li>Browsing data is <strong>NOT</strong> used for training by default</li>
+<li>You control page access permissions</li>
+<li>Agent Mode requires explicit supervision</li>
+<li>Data can be deleted anytime</li>
+</ul>
+<h3>Expert Warning:</h3>
+<p>Technology expert Lena Cohen from the Electronic Frontier Foundation cautions:</p>
+<blockquote>
+<p>"When using Atlas for daily activities, it becomes easier to overlook that all actions may be transmitted to OpenAI. Users maintain less control over what data they share compared to explicitly asking ChatGPT questions."</p>
+</blockquote>
+<h3>Privacy Best Practices:</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="javascript" data-theme="min-light min-dark"><code data-language="javascript" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Recommended settings for privacy-conscious users</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8">1.</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> Review data sharing settings on first launch</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8">2.</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> Disable training data opt</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">-in</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8">3.</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> Use Incognito mode for sensitive browsing</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8">4.</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> Regularly clear browser memories</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8">5.</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> Check which sites have sidebar access</span></span></code></pre></figure>
+<h2>Availability and Pricing</h2>
+<h3>Current Launch Status (October 2025):</h3>
+<table>
+<thead>
+<tr>
+<th>Platform</th>
+<th>Status</th>
+<th>Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>macOS</td>
+<td>✅ Available now</td>
+<td>Oct 21, 2025</td>
+</tr>
+<tr>
+<td>Windows</td>
+<td>🔜 Coming soon</td>
+<td>TBA</td>
+</tr>
+<tr>
+<td>iOS</td>
+<td>🔜 Coming soon</td>
+<td>TBA</td>
+</tr>
+<tr>
+<td>Android</td>
+<td>🔜 Coming soon</td>
+<td>TBA</td>
+</tr>
+</tbody>
+</table>
+<h3>Pricing Tiers:</h3>
+<p><strong>Free Users:</strong></p>
+<ul>
+<li>Basic Atlas browser</li>
+<li>ChatGPT sidebar</li>
+<li>Page summarization</li>
+<li>Inline writing help</li>
+<li>Limited agent tasks</li>
+</ul>
+<p><strong>ChatGPT Plus ($20/month):</strong></p>
+<ul>
+<li>Full Agent Mode</li>
+<li>Faster response times</li>
+<li>Priority access</li>
+<li>Advanced features</li>
+</ul>
+<p><strong>ChatGPT Pro ($200/month):</strong></p>
+<ul>
+<li>Unlimited agent tasks</li>
+<li>Enhanced capabilities</li>
+<li>Professional features</li>
+</ul>
+<h2>Technical Architecture</h2>
+<p>Atlas is built on <strong>Chromium</strong> (same as Chrome), ensuring compatibility with:</p>
+<ul>
+<li>All Chrome extensions (with limitations)</li>
+<li>Modern web standards</li>
+<li>Existing web apps</li>
+<li>Developer tools</li>
+</ul>
+<h3>Key Technical Features:</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="typescript" data-theme="min-light min-dark"><code data-language="typescript" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Atlas exposes new APIs for developers</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">interface</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> AtlasAPI</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> {</span></span>
+<span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">  // Request AI analysis of page content</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">  analyzePage</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(options</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> AnalysisOptions</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">)</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Promise</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">Analysis</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">>;</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  </span></span>
+<span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">  // Trigger agent actions</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">  performTask</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(task</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TaskDescription</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">)</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Promise</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">TaskResult</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">>;</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  </span></span>
+<span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">  // Access browser memories</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">  recallContext</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(query</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">)</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Promise</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">Memory</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">[]>;</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span></code></pre></figure>
+<h2>Strategic Implications</h2>
+<h3>For OpenAI:</h3>
+<ul>
+<li><strong>User Lock-in:</strong> Captures daily browsing habits</li>
+<li><strong>Data Advantage:</strong> Real-world usage patterns</li>
+<li><strong>Revenue Streams:</strong> Ads, partnerships, premium features</li>
+<li><strong>Market Position:</strong> Direct challenge to Google</li>
+</ul>
+<h3>For Google:</h3>
+<ul>
+<li><strong>Chrome at Risk:</strong> 71.9% market share threatened</li>
+<li><strong>Search Disruption:</strong> Conversational search vs. links</li>
+<li><strong>Ad Revenue:</strong> Atlas could siphon advertising dollars</li>
+</ul>
+<h3>For Users:</h3>
+<ul>
+<li><strong>Productivity Boost:</strong> Faster information retrieval</li>
+<li><strong>Learning Curve:</strong> New interaction paradigm</li>
+<li><strong>Privacy Trade-off:</strong> Convenience vs. data sharing</li>
+</ul>
+<h2>Early Reactions</h2>
+<p><strong>Positive:</strong></p>
+<ul>
+<li>"Game-changer for research workflows"</li>
+<li>"Finally, AI where I need it"</li>
+<li>"Agent Mode is surprisingly capable"</li>
+<li>"No more copy-paste hell"</li>
+</ul>
+<p><strong>Concerns:</strong></p>
+<ul>
+<li>"Privacy implications are huge"</li>
+<li>"Another data collection point"</li>
+<li>"Will Google block it like they did with other browsers?"</li>
+<li>"Too much automation risk"</li>
+</ul>
+<h2>Competing Browsers</h2>
+<p>Atlas joins a growing field of AI-first browsers:</p>
+<table>
+<thead>
+<tr>
+<th>Browser</th>
+<th>Company</th>
+<th>Key Feature</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Atlas</td>
+<td>OpenAI</td>
+<td>ChatGPT integration</td>
+</tr>
+<tr>
+<td>Comet</td>
+<td>Perplexity</td>
+<td>Search-first AI</td>
+</tr>
+<tr>
+<td>Dia</td>
+<td>The Browser Company</td>
+<td>Command-driven AI</td>
+</tr>
+<tr>
+<td>Chrome with AI Mode</td>
+<td>Google</td>
+<td>Native AI summaries</td>
+</tr>
+<tr>
+<td>Edge with Copilot</td>
+<td>Microsoft</td>
+<td>Bing AI integration</td>
+</tr>
+</tbody>
+</table>
+<h2>Should You Switch?</h2>
+<h3>Switch to Atlas if:</h3>
+<p>✅ You use ChatGPT daily<br>
+✅ You do heavy research online<br>
+✅ You want to automate repetitive web tasks<br>
+✅ You value productivity over privacy<br>
+✅ You're comfortable with AI assistance</p>
+<h3>Stick with Chrome/Firefox if:</h3>
+<p>❌ Privacy is your top priority<br>
+❌ You prefer manual control<br>
+❌ You don't trust AI with browsing data<br>
+❌ You need mature extension ecosystem<br>
+❌ You're on Windows/iOS/Android (for now)</p>
+<h2>Getting Started with Atlas</h2>
+<h3>Installation:</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="min-light min-dark"><code data-language="bash" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C"># Download from OpenAI (macOS only currently)</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">1.</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> Visit</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> openai.com/atlas</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">2.</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> Download</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> for</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> macOS</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">3.</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> Install</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> and</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> sign</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> in</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> with</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> OpenAI</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> account</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">4.</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> Complete</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> onboarding</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> and</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> privacy</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> settings</span></span></code></pre></figure>
+<h3>First-Time Setup Tips:</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="javascript" data-theme="min-light min-dark"><code data-language="javascript" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Recommended initial configuration</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8">1.</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> Review privacy settings carefully</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8">2.</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> Choose which data to share</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8">3.</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> Set up browser memories preferences</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8">4.</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> Configure Agent Mode permissions</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8">5.</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> Customize sidebar behavior</span></span>
+<span data-line=""><span style="--shiki-light:#1976D2;--shiki-dark:#F8F8F8">6.</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> Import bookmarks from Chrome</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">/</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">Safari</span></span></code></pre></figure>
+<h2>The Future of Browsing</h2>
+<p>Atlas represents a <strong>paradigm shift</strong> from destination-based browsing (URLs, tabs, bookmarks) to <strong>conversation-based browsing</strong> (questions, tasks, context).</p>
+<h3>What's Next:</h3>
+<p><strong>Near-term (2025-2026):</strong></p>
+<ul>
+<li>Windows, iOS, Android releases</li>
+<li>More agent capabilities</li>
+<li>Third-party integrations</li>
+<li>Extension ecosystem</li>
+<li>Performance improvements</li>
+</ul>
+<p><strong>Long-term Vision:</strong></p>
+<ul>
+<li>Fully autonomous web agents</li>
+<li>Predictive browsing</li>
+<li>Ambient AI assistance</li>
+<li>Multi-modal interactions</li>
+<li>Cross-device synchronization</li>
+</ul>
+<h2>Conclusion</h2>
+<p>ChatGPT Atlas is not just another browser—it's OpenAI's bet that <strong>conversation will replace navigation</strong> as the primary way we interact with the web. By embedding ChatGPT into every page, Atlas eliminates the friction between finding information and acting on it.</p>
+<p>The trade-off is clear: unprecedented productivity and convenience in exchange for sharing your browsing behavior with OpenAI. Whether that's worth it depends on your priorities and trust in OpenAI's data practices.</p>
+<p>For developers, researchers, content creators, and power users who already live in ChatGPT, Atlas could become indispensable. For privacy-conscious users, the wait-and-see approach makes sense until data handling practices mature.</p>
+<p>One thing is certain: <strong>the browser wars just got interesting again</strong>.</p>
+<hr>
+<p><strong>Try ChatGPT Atlas:</strong></p>
+<ul>
+<li>Download: <a href="https://openai.com/atlas">openai.com/atlas</a></li>
+<li>Documentation: <a href="https://help.openai.com/en/articles/12591856-chatgpt-atlas-release-notes">OpenAI Atlas Help Center</a></li>
+<li>Privacy Policy: <a href="https://openai.com/privacy">OpenAI Privacy</a></li>
+</ul>
+<p><strong>Related Reading:</strong></p>
+<ul>
+<li><a href="/blog/nextjs-15-features">Next.js 15: What's New and Why It Matters</a></li>
+<li><a href="/blog/react-native-vs-flutter-2025">React Native vs Flutter in 2025</a></li>
+</ul>21:["$","section",null,{"id":"blog","children":[["$","script",null,{"type":"application/ld+json","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"OpenAI's ChatGPT Atlas: The AI-First Browser That Changes Everything\",\"datePublished\":\"2025-10-25\",\"dateModified\":\"2025-10-25\",\"description\":\"OpenAI just launched ChatGPT Atlas, an AI-powered browser with ChatGPT built into every page. Explore its revolutionary features, agent mode, privacy concerns, and what it means for the future of web browsing.\",\"image\":\"https://asmatrahman.github.io//og?title=OpenAI's ChatGPT Atlas: The AI-First Browser That Changes Everything\",\"url\":\"https://asmatrahman.github.io//blog/openai-chatgpt-atlas-browser\",\"author\":{\"@type\":\"Person\",\"name\":\"Asmat Rahman\"}}"}}],["$","h1",null,{"className":"title font-medium text-2xl tracking-tighter max-w-[650px]","children":"OpenAI's ChatGPT Atlas: The AI-First Browser That Changes Everything"}],["$","div",null,{"className":"flex justify-between items-center mt-2 mb-8 text-sm max-w-[650px]","children":["$","$29",null,{"fallback":["$","p",null,{"className":"h-5"}],"children":["$","p",null,{"className":"text-sm text-neutral-600 dark:text-neutral-400","children":"Today"}]}]}],["$","article",null,{"className":"prose dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$2b"}}]]}]
+27:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+23:null
+2c:I[622,[],"IconMark"]
+25:{"metadata":[["$","title","0",{"children":"OpenAI's ChatGPT Atlas: The AI-First Browser That Changes Everything | Asmat Rahman"}],["$","meta","1",{"name":"description","content":"OpenAI just launched ChatGPT Atlas, an AI-powered browser with ChatGPT built into every page. Explore its revolutionary features, agent mode, privacy concerns, and what it means for the future of web browsing."}],["$","link","2",{"rel":"author","href":"https://asmatrahman.github.io/"}],["$","meta","3",{"name":"author","content":"Asmat Rahman"}],["$","meta","4",{"name":"keywords","content":"Full Stack Developer,MERN Stack Developer,React Native Developer,Next.js Developer,Mobile App Developer,Web Developer Malda,Freelance Developer India,JavaScript Developer,Node.js Expert,MongoDB Developer,E-commerce Developer,Asmat Rahman"}],["$","meta","5",{"name":"creator","content":"Asmat Rahman"}],["$","meta","6",{"name":"publisher","content":"Asmat Rahman"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","9",{"rel":"canonical","href":"https://asmatrahman.github.io"}],["$","meta","10",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","11",{"property":"og:title","content":"OpenAI's ChatGPT Atlas: The AI-First Browser That Changes Everything"}],["$","meta","12",{"property":"og:description","content":"OpenAI just launched ChatGPT Atlas, an AI-powered browser with ChatGPT built into every page. Explore its revolutionary features, agent mode, privacy concerns, and what it means for the future of web browsing."}],["$","meta","13",{"property":"og:url","content":"https://asmatrahman.github.io//blog/openai-chatgpt-atlas-browser"}],["$","meta","14",{"property":"og:image","content":"https://asmatrahman.github.io//og?title=OpenAI%27s%20ChatGPT%20Atlas:%20The%20AI-First%20Browser%20That%20Changes%20Everything"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2025-10-25"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"OpenAI's ChatGPT Atlas: The AI-First Browser That Changes Everything"}],["$","meta","19",{"name":"twitter:description","content":"OpenAI just launched ChatGPT Atlas, an AI-powered browser with ChatGPT built into every page. Explore its revolutionary features, agent mode, privacy concerns, and what it means for the future of web browsing."}],["$","meta","20",{"name":"twitter:image","content":"https://asmatrahman.github.io//og?title=OpenAI%27s%20ChatGPT%20Atlas:%20The%20AI-First%20Browser%20That%20Changes%20Everything"}],["$","link","21",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L2c","22",{}]],"error":null,"digest":"$undefined"}
+2a:"$25:metadata"
