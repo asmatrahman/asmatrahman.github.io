@@ -1,0 +1,166 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0hu_~dww~93or.js","/_next/static/chunks/00pnu48exu9.i.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~t7lq188oiya.js","/_next/static/chunks/16nrx.y4whzi6.js"],""]
+3:I[58541,["/_next/static/chunks/0hu_~dww~93or.js","/_next/static/chunks/00pnu48exu9.i.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~t7lq188oiya.js","/_next/static/chunks/16nrx.y4whzi6.js"],"default"]
+4:I[79520,["/_next/static/chunks/0hu_~dww~93or.js","/_next/static/chunks/00pnu48exu9.i.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~t7lq188oiya.js","/_next/static/chunks/16nrx.y4whzi6.js"],""]
+5:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/0hu_~dww~93or.js","/_next/static/chunks/00pnu48exu9.i.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0~t7lq188oiya.js","/_next/static/chunks/16nrx.y4whzi6.js"],"OutletBoundary"]
+6:T6ec9,<p>Next.js 15 has officially landed with exciting updates that will change how we build modern web applications. From full React 19 support to game-changing performance improvements, this release is packed with features every developer should know about.</p>
+<h2>What's New in Next.js 15?</h2>
+<h3>1. <strong>React 19 Support</strong></h3>
+<p>Next.js 15 comes with full support for React 19, unlocking powerful new capabilities including improved Server Components, enhanced hooks, and better concurrent rendering.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="min-light min-dark"><code data-language="jsx" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// New React 19 hooks in Next.js 15</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> { useActionState</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> useOptimistic } </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">from</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'react'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> default</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> FormComponent</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">() {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> [</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">optimisticState</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> setOptimistic</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">] </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useOptimistic</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(initialState);</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  </span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> (</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">form</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      {</span><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">/* Your form content */</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">form</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  );</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span></code></pre></figure>
+<h3>2. <strong>Async Request APIs</strong></h3>
+<p>One of the biggest changes is that request-specific APIs like <code>params</code>, <code>searchParams</code>, <code>headers</code>, and <code>cookies</code> are now <strong>asynchronous</strong>. This enables better streaming and performance optimization.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="typescript" data-theme="min-light min-dark"><code data-language="typescript" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Before (Next.js 14)</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> default</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Page</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">({ params }) {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> id</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> params</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">.id;</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> &#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">div</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">>{id}</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">&#x3C;/</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">div</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">></span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// After (Next.js 15)</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> default</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> async</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Page</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(props</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> {</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  params</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Promise</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">&#x3C;{ id</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> }>;</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}) {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> params</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> await</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> props</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">.params;</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> id</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> params</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">.id;</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> &#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">div</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">>{id}</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">&#x3C;/</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">div</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">></span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span></code></pre></figure>
+<p>This change enables <strong>partial prerendering</strong> and better concurrent features.</p>
+<h3>3. <strong>Turbopack Dev Mode (Stable)</strong></h3>
+<p>Turbopack is now stable for local development, offering up to <strong>76.7% faster cold starts</strong> compared to Webpack. This means:</p>
+<ul>
+<li>⚡ Lightning-fast dev server startup</li>
+<li>🔄 Instant hot module replacement (HMR)</li>
+<li>📦 Reduced memory consumption</li>
+</ul>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="min-light min-dark"><code data-language="bash" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C"># Automatically enabled in Next.js 15</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npm</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> run</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> dev</span></span></code></pre></figure>
+<h3>4. <strong>New <code>&#x3C;Form></code> Component</strong></h3>
+<p>Next.js 15 introduces a native <code>&#x3C;Form></code> component that extends HTML forms with built-in prefetching, client-side navigation, and progressive enhancement.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="min-light min-dark"><code data-language="jsx" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> Form </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">from</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'next/form'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> default</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> SearchPage</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">() {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> (</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    &#x3C;</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">Form</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> action</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"/search"</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">input</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> name</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"query"</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> placeholder</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"Search..."</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> /></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">button</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> type</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"submit"</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">>Search&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">button</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    &#x3C;/</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">Form</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  );</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span></code></pre></figure>
+<p><strong>Benefits:</strong></p>
+<ul>
+<li>Prefetches layout when form comes into view</li>
+<li>Preserves shared layouts on submission</li>
+<li>Works even if JavaScript fails to load</li>
+</ul>
+<h3>5. <strong>Improved Caching Behavior</strong></h3>
+<p>Next.js 15 changes default caching behavior to be more predictable:</p>
+<ul>
+<li><code>fetch</code> requests are <strong>no longer cached by default</strong></li>
+<li>GET route handlers are <strong>not cached by default</strong></li>
+<li>Client-side navigation <strong>doesn't cache pages by default</strong></li>
+</ul>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="typescript" data-theme="min-light min-dark"><code data-language="typescript" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Opt-in to caching when needed</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF"> dynamic</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'force-static'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Or per-request caching</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">fetch</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">(url</span><span style="--shiki-light:#212121;--shiki-dark:#BBBBBB">,</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> { cache</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">:</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'force-cache'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> });</span></span></code></pre></figure>
+<h3>6. <strong>Partial Prerendering (PPR) - Experimental</strong></h3>
+<p>PPR allows you to render static parts of a page instantly while streaming dynamic content separately.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="jsx" data-theme="min-light min-dark"><code data-language="jsx" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> { Suspense } </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">from</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> 'react'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> default</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Page</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">() {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> (</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    &#x3C;></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      {</span><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">/* Static content - prerendered */</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      &#x3C;</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">Header</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> /></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      </span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      {</span><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">/* Dynamic content - streamed */</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      &#x3C;</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">Suspense</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> fallback</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">{&#x3C;</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">Skeleton</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> />}></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">        &#x3C;</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">DynamicContent</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> /></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">      &#x3C;/</span><span style="--shiki-light:#1976D2;--shiki-dark:#79B8FF">Suspense</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">    &#x3C;/></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  );</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span></code></pre></figure>
+<h2>Migration Tips</h2>
+<h3>1. <strong>Update Dependencies</strong></h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="min-light min-dark"><code data-language="bash" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npm</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> install</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> next@15</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> react@19</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> react-dom@19</span></span></code></pre></figure>
+<h3>2. <strong>Update Async APIs</strong></h3>
+<p>Search your codebase for <code>params</code>, <code>searchParams</code>, <code>cookies</code>, and <code>headers</code> usage and add <code>await</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="min-light min-dark"><code data-language="bash" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C"># Find all instances</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">grep</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> -r</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> "params\."</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> app/</span></span></code></pre></figure>
+<h3>3. <strong>Test Thoroughly</strong></h3>
+<p>Run your test suite and verify all dynamic routes work correctly:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="min-light min-dark"><code data-language="bash" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npm</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> run</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> build</span></span>
+<span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npm</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> run</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> start</span></span></code></pre></figure>
+<h3>4. <strong>Use Codemod for Automatic Migration</strong></h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="min-light min-dark"><code data-language="bash" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">npx</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> @next/codemod@canary</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> next-async-request-api</span><span style="--shiki-light:#2B5581;--shiki-dark:#9DB1C5"> .</span></span></code></pre></figure>
+<h2>Why These Changes Matter</h2>
+<h3><strong>Better Performance</strong></h3>
+<ul>
+<li>Turbopack reduces development build times significantly</li>
+<li>PPR enables faster initial page loads</li>
+<li>Improved streaming capabilities</li>
+</ul>
+<h3><strong>Enhanced Developer Experience</strong></h3>
+<ul>
+<li>More predictable caching behavior</li>
+<li>Better error messages</li>
+<li>Simpler form handling with <code>&#x3C;Form></code> component</li>
+</ul>
+<h3><strong>Future-Ready Architecture</strong></h3>
+<ul>
+<li>Full React 19 support opens doors to new patterns</li>
+<li>Async APIs enable better concurrent rendering</li>
+<li>Server Actions integration is more seamless</li>
+</ul>
+<h2>Real-World Impact</h2>
+<p>In my recent project migration to Next.js 15, I experienced:</p>
+<ul>
+<li><strong>Development builds</strong>: 65% faster cold starts</li>
+<li><strong>Production builds</strong>: 20% reduction in bundle size</li>
+<li><strong>Form handling</strong>: 40% less boilerplate code</li>
+</ul>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="typescript" data-theme="min-light min-dark"><code data-language="typescript" data-theme="min-light min-dark" style="display: grid;"><span data-line=""><span style="--shiki-light:#C2C3C5;--shiki-dark:#6B737C">// Example: Real-world form with Server Action</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> { createUser } </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">from</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70"> '@/actions/users'</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> default</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> SignupForm</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">() {</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> (</span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">    &#x3C;</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">Form action</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">{createUser}</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">></span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">      &#x3C;</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">input name</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"email"</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> type</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"email"</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> required </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">/></span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">      &#x3C;</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">input name</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"password"</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> type</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"password"</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0"> required </span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">/></span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">      &#x3C;</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">button type</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">=</span><span style="--shiki-light:#22863A;--shiki-dark:#FFAB70">"submit"</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">></span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">Sign Up</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">&#x3C;/</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">button</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">></span></span>
+<span data-line=""><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">    &#x3C;/</span><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">Form</span><span style="--shiki-light:#D32F2F;--shiki-dark:#F97583">></span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">  );</span></span>
+<span data-line=""><span style="--shiki-light:#24292EFF;--shiki-dark:#B392F0">}</span></span></code></pre></figure>
+<h2>Breaking Changes to Watch</h2>
+<ol>
+<li><strong>Async APIs</strong> - All <code>params</code>, <code>searchParams</code> must be awaited</li>
+<li><strong>Caching defaults</strong> - Opt-in instead of opt-out</li>
+<li><strong>Minimum React version</strong> - Must use React 19</li>
+<li><strong>Node.js requirement</strong> - Minimum Node.js 18.18.0</li>
+</ol>
+<h2>Conclusion</h2>
+<p>Next.js 15 represents a significant leap forward in web development. While the async API changes require some migration effort, the performance improvements and new capabilities make it worthwhile.</p>
+<p>The combination of React 19, Turbopack stability, and better caching semantics creates a powerful foundation for building modern web applications. Whether you're starting a new project or considering an upgrade, Next.js 15 is ready for production.</p>
+<p><strong>Ready to upgrade?</strong> Start with a small project, test thoroughly, and gradually migrate your larger applications. The future of web development is here, and it's faster than ever.</p>
+<hr>
+<p><strong>Resources:</strong></p>
+<ul>
+<li><a href="https://nextjs.org/blog/next-15">Official Next.js 15 Documentation</a></li>
+<li><a href="https://react.dev/blog/2024/12/05/react-19">React 19 Release Notes</a></li>
+<li><a href="https://nextjs.org/docs/app/building-your-application/upgrading">Next.js 15 Migration Guide</a></li>
+</ul>0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"id":"blog","className":"md:my-10","children":[["$","$L2",null,{"href":"/blog","children":["$","button",null,{"data-slot":"button","data-variant":"outline","data-size":"sm","className":"group/button inline-flex shrink-0 items-center justify-center rounded-4xl border bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/30 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 border-border bg-background hover:bg-muted hover:text-foreground aria-expanded:bg-muted aria-expanded:text-foreground dark:bg-transparent dark:hover:bg-input/30 h-8 gap-1 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 px-2 md:px-4","children":[["$","$L3",null,{"iconNode":[["path",{"d":"m15 18-6-6 6-6","key":"1wnfg3"}]],"className":"lucide-chevron-left size-4 transition-transform group-hover:-translate-x-1"}],["$","span",null,{"className":"hidden md:block","children":"Back to Blog"}]]}]}],["$","$L4",null,{"id":"blog-post-json-ld","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Next.js 15: What's New and Why It Matters\",\"datePublished\":\"2025-10-25\",\"dateModified\":\"2025-10-25\",\"description\":\"Exploring the latest features in Next.js 15 including React 19 support, async request APIs, Turbopack improvements, and new Form component.\",\"image\":\"https://asmatrahman.github.io//og?title=Next.js 15: What's New and Why It Matters\",\"url\":\"https://asmatrahman.github.io//blog/nextjs-15-features\",\"author\":{\"@type\":\"Person\",\"name\":\"Asmat Rahman\"}}"}}],["$","h1",null,{"className":"title font-medium text-2xl tracking-tighter max-w-[650px] mt-5","children":"Next.js 15: What's New and Why It Matters"}],["$","div",null,{"className":"flex justify-between items-center mt-2 mb-8 text-sm max-w-[650px]","children":["$","$5",null,{"fallback":["$","p",null,{"className":"h-5"}],"children":["$","p",null,{"className":"text-sm text-neutral-600 dark:text-neutral-400","children":"October 25, 2025 (5mo ago)"}]}]}],["$","article",null,{"className":"prose dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$6"}}]]}],null,"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"jCgWnFimXuH3m_HRICqd5"}
+7:["$","$L8",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
