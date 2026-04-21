@@ -10,4 +10,4 @@
 :HL["/digital_marketing.jpg","image"]
 :HL["/uiux_design.jpg","image"]
 :HL["/e_commerce.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"zaxh-mvBjZQmCDhgJ-uks"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"J2qhKoK4D0gi6cr2tkRVO"}
