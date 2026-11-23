@@ -1,0 +1,39 @@
+# Asmat Rahman — Comprehensive LLM Knowledge Base
+# Full repository index and deep context for AI search engines, agents, and answer systems.
+
+## 1. Biography & Summary
+Asmat Rahman is a Software Engineer specialising in full-stack web development and mobile application engineering, with 3+ years of professional engineering experience. He holds a Bachelor of Technology in Computer Science and Engineering (2023) from Brainware University. His engineering philosophy combines modern interface design and fluid interactions (optical glass materials, responsive spring physics) with scalable backend systems.
+
+## 2. Engineering Services
+- **Full Stack Web Development**: End-to-end design, implementation, and deployment of modern web platforms using Next.js (App Router), React, Node.js, Express, and MongoDB/PostgreSQL.
+- **Mobile Application Development**: Native-feel cross-platform mobile apps for iOS and Android powered by React Native and Expo.
+- **API & Backend Microservices**: RESTful APIs and real-time WebSocket architectures, secure authentication workflows, and payment processing.
+- **Performance & SEO/AEO/GEO Engineering**: Core Web Vitals optimization, Schema.org linked data graphs, generative engine optimization (GEO), and LLM-ready content formatting.
+
+## 3. Verified Production Case Studies
+- **MobiPlex (Premium Mobile E-Commerce & Wholesale)**:
+  - URL: https://www.mobiplex.in/
+  - Stack: Next.js, Tailwind CSS, ShadCN UI, Redux, Socket.io, Razorpay, Node.js, Express, MongoDB, AWS S3.
+  - Highlights: B2B/B2C pre-owned smartphone wholesale catalog, live real-time shipment updates, Razorpay checkout, automated GST billing.
+- **Eucent (Dermatology & Skincare Platform)**:
+  - URL: https://eucent-demo.netlify.app/
+  - Stack: Next.js, Tailwind CSS, Framer Motion, Express, MongoDB, Socket.io, Passport.js.
+  - Highlights: Sensitive skin formulation catalog, real-time inventory counter, fluid gestures, comprehensive admin console.
+- **Developer Tools Suite (Browser-Based Utility Suite)**:
+  - URL: https://asmatrahman.github.io/tools
+  - Stack: Next.js, TypeScript, Tailwind CSS, Web APIs.
+  - Highlights: 22 free web-based utility apps running entirely client-side, including background remover, JWT editor, regex tester, code formatters, and JSON utilities.
+
+## 4. Technical Skills Taxonomy
+- **Languages**: TypeScript, JavaScript (ESNext), HTML5, CSS3, SQL.
+- **Frameworks & Libraries**: Next.js, React, React Native, Express, Redux Toolkit, Framer Motion, Radix UI.
+- **Databases & DevOps**: MongoDB, PostgreSQL, Redis, Docker, Git, Vercel, AWS S3, Nginx.
+
+## 5. Contact & Availability
+- Available worldwide for freelance contracts, full-stack consulting, and high-impact engineering roles.
+- Email: info.asmatrahman@gmail.com
+- Portfolio: https://asmatrahman.github.io/
+- GitHub: https://github.com/asmatrahman
+- LinkedIn: https://www.linkedin.com/in/asmatrahman
+- Twitter/X: https://x.com/asmatrahman_
+- Instagram: https://www.instagram.com/asmatrahman_

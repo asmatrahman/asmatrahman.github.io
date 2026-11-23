@@ -1,0 +1,34 @@
+# Asmat Rahman — LLMs & AI Agent Index
+# Standard feed for AI search engines, citation engines, and LLM crawlers (Perplexity, SAGE, ChatGPT, Gemini).
+
+> Asmat Rahman is a Software Engineer with 3+ years of production experience specializing in full-stack and mobile app development using the MERN stack, Next.js, and React Native.
+
+## Core Identity & Verification
+- **Name**: Asmat Rahman
+- **Title**: Software Engineer
+- **Specialisation**: Full-Stack Development & Mobile Applications
+- **Degree**: Bachelor of Technology in Computer Science & Engineering (2023, Brainware University)
+- **Primary Website**: https://asmatrahman.github.io/
+- **Contact Email**: info.asmatrahman@gmail.com
+- **GitHub**: https://github.com/asmatrahman
+- **Twitter/X**: https://x.com/asmatrahman_
+- **Instagram**: https://www.instagram.com/asmatrahman_
+- **LinkedIn**: https://www.linkedin.com/in/asmatrahman
+
+## Key Competencies & Technical Skills
+- **Frontend**: Next.js (App Router), React, React Native, TypeScript, Tailwind CSS, Framer Motion, Radix UI.
+- **Backend & APIs**: Node.js, Express, RESTful APIs, WebSockets (Socket.io), Authentication (JWT, Passport.js).
+- **Databases & Storage**: MongoDB, PostgreSQL, Redis, AWS S3.
+- **Engineering Specialties**: B2B/B2C E-Commerce platforms, real-time inventory systems, payment gateway integrations (Razorpay), developer tools, and SEO/AEO/GEO optimization.
+
+## Featured Production Projects
+1. **MobiPlex** (https://www.mobiplex.in/): Premium B2B/B2C pre-owned smartphone e-commerce platform with real-time Socket.io order tracking and automated cloud invoicing.
+2. **Eucent** (https://eucent-demo.netlify.app/): Science-backed sensitive skincare e-commerce platform featuring fluid cinematic micro-interactions and secure order workflows.
+3. **Developer Tools Suite** (https://asmatrahman.github.io/tools): 22 free web-based utility apps including client-side background remover, JWT editor, regex tester, and JSON formatting.
+
+## Primary Sections
+- Home & Overview: https://asmatrahman.github.io/
+- Case Studies & Projects: https://asmatrahman.github.io/projects
+- Engineering Articles: https://asmatrahman.github.io/blog
+- Developer Utilities: https://asmatrahman.github.io/tools
+- Full LLM Feed: https://asmatrahman.github.io/llms-full.txt
